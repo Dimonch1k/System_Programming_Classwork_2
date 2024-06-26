@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_2\\system_programming_classwork_2\\system_programming_classwork_2\\runsemaphore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|solutionrelative:system_programming_classwork_2\\runsemaphore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_2\\system_programming_classwork_2\\system_programming_classwork_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|solutionrelative:system_programming_classwork_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_2\\system_programming_classwork_2\\system_programming_classwork_2\\runlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|solutionrelative:system_programming_classwork_2\\runlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_2\\system_programming_classwork_2\\system_programming_classwork_2\\runmutex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|solutionrelative:system_programming_classwork_2\\runmutex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\system_programming_classwork_2\\incrementnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|solutionrelative:system_programming_classwork_2\\incrementnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\system_programming_classwork_2\\runthreadpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|solutionrelative:system_programming_classwork_2\\runthreadpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|c:\\users\\dmytro\\desktop\\git\\system_programming_classwork_2\\system_programming_classwork_2\\system_programming_classwork_2\\runmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F59C74D-7FDE-4312-9893-AA21376BEBF3}|System_Programming_Classwork_2\\System_Programming_Classwork_2.csproj|solutionrelative:system_programming_classwork_2\\runmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RunSemaphore.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\RunSemaphore.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_2\\RunSemaphore.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\RunSemaphore.cs",
+              "RelativeToolTip": "System_Programming_Classwork_2\\RunSemaphore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:10:04.125Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RunMutex.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\RunMutex.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_2\\RunMutex.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\RunMutex.cs",
+              "RelativeToolTip": "System_Programming_Classwork_2\\RunMutex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:11:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RunLock.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\RunLock.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_2\\RunLock.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\RunLock.cs",
+              "RelativeToolTip": "System_Programming_Classwork_2\\RunLock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:06:24.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RunMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\RunMonitor.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_2\\RunMonitor.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\RunMonitor.cs",
+              "RelativeToolTip": "System_Programming_Classwork_2\\RunMonitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:50:28.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RunThreadPool.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\RunThreadPool.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_2\\RunThreadPool.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\RunThreadPool.cs",
+              "RelativeToolTip": "System_Programming_Classwork_2\\RunThreadPool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:32:00.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IncrementNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\IncrementNumbers.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_2\\IncrementNumbers.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\IncrementNumbers.cs",
+              "RelativeToolTip": "System_Programming_Classwork_2\\IncrementNumbers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:54:42.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\Program.cs",
+              "RelativeDocumentMoniker": "System_Programming_Classwork_2\\Program.cs",
+              "ToolTip": "C:\\Users\\dmytro\\Desktop\\Git\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\System_Programming_Classwork_2\\Program.cs",
+              "RelativeToolTip": "System_Programming_Classwork_2\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwJUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:19:25.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
